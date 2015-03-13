@@ -1,0 +1,1 @@
+This software can resize & upload images into Libimseti.cz to you profile or albums. Its written in VB6
